@@ -30,41 +30,22 @@ Hello! I am Piyush Chauhan, a computer engineering student from Surat, Gujarat. 
 - **[Recipe Finder App](https://github.com/yourusername/recipe-finder-app)**
   - A React JS application that allows users to search for recipes and view top recipes.
 
----
-
-### 💼 Experience and Internships
-
-- **IBM SkillBuild in Artificial Intelligence**
-  - 15-day internship sponsored by CSRBOX from 29th June to 12th July 2024.
-  
-- **Codsoft (AI Internship)**
-  - 4-week internship from 25th June to 25th July 2024.
-  
-- **Infolabz IT Services Pvt Ltd (React JS Internship)**
-  - Internship from 29th June to 12th July 2024.
-
----
-
-### 📜 Certifications
-
-- **IBM SkillBuild in Artificial Intelligence**
-- **Codsoft AI Internship**
-- **Infolabz IT Services Pvt Ltd React JS Internship**
 
 ---
 
 ### 📫 Contact
 
-- **Email:** piyushchauhan@example.com
-- **LinkedIn:** [Piyush Chauhan](https://www.linkedin.com/in/piyushchauhan)
-- **Upwork:** [Piyush Chauhan](https://www.upwork.com/freelancers/~yourprofile)
+- **Email:** piyushchauha12345@gmail.com
+- **LinkedIn:** [Piyush Chauhan](https://www.linkedin.com/in/piyushchauhan30/)
+- **Upwork:** [Piyush Chauhan](https://www.upwork.com/freelancers/~01ce973e25e0f0b2c0?mp_source=share)
 
 ---
 
 ### 🌐 Social Media
 
 - **Twitter:** [@piyush_chauhan](https://twitter.com/piyush_chauhan)
-- **GitHub:** [piyushchauhan](https://github.com/piyushchauhan)
+- **GitHub:** [piyushchauhan](https://github.com/piyushchauhan3)
+- **Instagram** [@piyush___chauhan_](https://instagram.com/piyush___chauhan_)
 
 ---
 
