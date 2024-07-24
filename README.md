@@ -43,7 +43,7 @@ Hello! I am Piyush Chauhan, a computer engineering student from Surat, Gujarat. 
 
 ### 🌐 Social Media
 
-- **Twitter:** [@piyush_chauhan](https://twitter.com/piyush_chauhan)
+- **X:** [@piyush_chauhan](https://x.com/PiyushC97170409)
 - **GitHub:** [piyushchauhan](https://github.com/piyushchauhan3)
 - **Instagram** [@piyush___chauhan_](https://instagram.com/piyush___chauhan_)
 
